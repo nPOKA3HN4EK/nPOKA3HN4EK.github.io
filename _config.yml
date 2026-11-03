@@ -1,0 +1,10 @@
+title: ИИ без нервов
+description: Автоматизация и нейросети простыми словами. Без кода и без воды.
+lang: ru
+url: https://npoka3hn4ek.github.io
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+show_excerpts: true
